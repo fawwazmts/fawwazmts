@@ -13,6 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hyperparameter Tuning with Optuna](https://medium.com/@fawwazmts/hyperparameter-tuning-with-optuna-8e806b654f90?source=rss-735a841b7886------2)
+- [Z-Score and Modified Z-Score](https://medium.com/@fawwazmts/z-score-and-modified-z-score-f689296e4d3a?source=rss-735a841b7886------2)
+- [Generating Random Numbers in Computer](https://medium.com/@fawwazmts/generating-random-numbers-in-computer-cf4233ac46e8?source=rss-735a841b7886------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
