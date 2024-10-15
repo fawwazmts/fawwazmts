@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mtsfawwaz1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rqkikz5Ibkq-MsNq8OZBhZ7OGReKft-2AwXnQ2HrKbQ/edit](https://docs.google.com/document/d/1rqkikz5Ibkq-MsNq8OZBhZ7OGReKft-2AwXnQ2HrKbQ/edit)
+- 📄 Know about my experiences [Fawwaz's CV](https://docs.google.com/document/d/1rqkikz5Ibkq-MsNq8OZBhZ7OGReKft-2AwXnQ2HrKbQ/edit)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
