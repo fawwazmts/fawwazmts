@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **data analysis and machine learning**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/fawwazmts](https://www.datascienceportfol.io/fawwazmts)
-
 - 📝 I regularly write articles on [https://medium.com/@fawwazmts](https://medium.com/@fawwazmts)
 
 - 📫 How to reach me **mtsfawwaz1@gmail.com**
