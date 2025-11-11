@@ -80,24 +80,19 @@ Always open to discussions, collaborations, and learning opportunities.
 
 <ul>
   <li>
-    <span style="display: inline-flex; align-items: center; gap: 6px;">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="22"/>
-      <a href="https://www.linkedin.com/in/fawwazmts/" target="_blank">linkedin.com/in/fawwazmts</a>
-    </span>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="20" style="vertical-align: middle; margin-right: 6px;"/>
+    <a href="https://www.linkedin.com/in/fawwazmts/" target="_blank">linkedin.com/in/fawwazmts</a>
   </li>
   <li>
-    <span style="display: inline-flex; align-items: center; gap: 6px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="22"/>
-      <a href="https://medium.com/@fawwazmts" target="_blank">medium.com/@fawwazmts</a>
-    </span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="20" style="vertical-align: middle; margin-right: 6px;"/>
+    <a href="https://medium.com/@fawwazmts" target="_blank">medium.com/@fawwazmts</a>
   </li>
   <li>
-    <span style="display: inline-flex; align-items: center; gap: 6px;">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="22"/>
-      <a href="mailto:mtsfawwaz1@gmail.com">mtsfawwaz1@gmail.com</a>
-    </span>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="20" style="vertical-align: middle; margin-right: 6px;"/>
+    <a href="mailto:mtsfawwaz1@gmail.com">mtsfawwaz1@gmail.com</a>
   </li>
 </ul>
+
 
 ---
 
