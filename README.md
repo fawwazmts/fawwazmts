@@ -1,12 +1,8 @@
-<h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p style="font-size:18px; font-weight:bold; margin-bottom:4px;">
-  Fawwaz Muhammad Tsani
-</p>
+### Fawwaz Muhammad Tsani
 
-<p style="font-size:14px; font-weight:bold; font-style:italic; margin-top:-4px; margin-bottom:20px;">
-  Junior Data Analyst | Data Scientist | Business Intelligence Analyst
-</p>
+#### _Junior Data Analyst | Data Scientist | Business Intelligence Analyst_
 
 Data-driven professional with 1+ years of experience in data analytics, with a background as a Data Analyst in the tech and e-commerce industry.
 Skilled at transforming complex data into actionable insights that support strategic decision-making.
@@ -82,18 +78,24 @@ Here are a few of my articles:
 Thanks for stopping by!
 Always open to discussions, collaborations, and learning opportunities.
 
-<ul style="list-style: none; padding-left: 0;">
-  <li style="margin-bottom: 4px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="22" style="vertical-align: middle;"/> 
-    <a href="https://www.linkedin.com/in/fawwazmts/" target="_blank" style="padding-left: 4px;">linkedin.com/in/fawwazmts</a>
+<ul>
+  <li>
+    <span style="display: inline-flex; align-items: center; gap: 6px;">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="22"/>
+      <a href="https://www.linkedin.com/in/fawwazmts/" target="_blank">linkedin.com/in/fawwazmts</a>
+    </span>
   </li>
-  <li style="margin-bottom: 4px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="22" style="border-radius:4px; vertical-align: middle;"/> 
-    <a href="https://medium.com/@fawwazmts" target="_blank" style="padding-left: 4px;">medium.com/@fawwazmts</a>
+  <li>
+    <span style="display: inline-flex; align-items: center; gap: 6px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="22"/>
+      <a href="https://medium.com/@fawwazmts" target="_blank">medium.com/@fawwazmts</a>
+    </span>
   </li>
-  <lis tyle="margin-bottom: 4px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="22" style="vertical-align: middle;"/> 
-    <a href="mailto:mtsfawwaz1@gmail.com" style="padding-left: 4px;">mtsfawwaz1@gmail.com</a>
+  <li>
+    <span style="display: inline-flex; align-items: center; gap: 6px;">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="22"/>
+      <a href="mailto:mtsfawwaz1@gmail.com">mtsfawwaz1@gmail.com</a>
+    </span>
   </li>
 </ul>
 
